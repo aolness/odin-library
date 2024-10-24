@@ -1,0 +1,6 @@
+.book-div {
+    display: flex;
+    gap: 20px;
+    align-items: baseline;
+    height: 30px;
+}
